@@ -6,6 +6,12 @@
 
 
 
-# Alternate Visualization of Debt-to-GDP Ratios Across Time
+# Grid of Lines Chart Visualization of Debt-to-GDP Ratios Across Time
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8566207"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+# Grid of Stacked Area Chart Visualization of Debt-to-GDP Ratios
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8566477"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
